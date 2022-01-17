@@ -1,1 +1,1 @@
-# Weather-decetion.github.io
+# Weather-info.github.io
